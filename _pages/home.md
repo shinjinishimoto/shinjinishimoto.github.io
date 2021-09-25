@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-私たちは、ヒトの複雑で多様な知覚・認知脳機能がどのような神経基盤によって成立しているのかを研究しています。
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -38,8 +36,9 @@ permalink: /
   </a>
 </div>
 
-上記の目的のため、自然な知覚・認知体験下における脳神経活動（fMRI記録、電位記録等）を説明する予測モデルの構築を通じ、脳神経における情報処理及び情報表現の定量的な理解を目指しています。<br />
+私たちは、ヒトの複雑で多様な知覚・認知脳機能がどのような神経基盤によって成立しているのかを研究しています。
 
+上記の目的のため、自然な知覚・認知体験下における脳神経活動（fMRI記録、電位記録等）を説明する予測モデルの構築を通じ、脳神経における情報処理及び情報表現の定量的な理解を目指しています。<br />
 
 また予測モデルの応用により、脳に学ぶ情報処理、脳情報デコーディング、およびそれらを介した情報伝達手段構築のための数理基盤開発を目指します。<br />
 
@@ -52,7 +51,7 @@ permalink: /
 ・ [大阪大学 大学院生命機能研究科](https://www.fbs.osaka-u.ac.jp/ja/research_group/detail/25)<br />
 ・ [大阪大学 基礎工学部システム科学科生物工学コース](http://www.bpe.es.osaka-u.ac.jp/)<br />
 ・ [情報通信研究機構 未来ICT研究所脳情報通信融合研究センター（CiNet）](https://www2.nict.go.jp/bnc/nishimoto/index.html)<br />
-において分野・機関横断的な研究教育を行っています。<br />
+において分野・機関横断的な教育と研究を行っています。<br />
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_3.png" style="max-width: 100%">
