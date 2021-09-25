@@ -38,12 +38,14 @@ permalink: /
   </a>
 </div>
 
-上記の目的のため、自然な知覚・認知条件下における脳神経活動（fMRI記録、電位記録等）を説明する予測モデルの構築を通じ、脳神経における情報処理及び情報表現の定量的な理解を目指しています。<br />
+上記の目的のため、自然な知覚・認知体験下における脳神経活動（fMRI記録、電位記録等）を説明する予測モデルの構築を通じ、脳神経における情報処理及び情報表現の定量的な理解を目指しています。<br />
 
 
 また予測モデルの応用により、脳に学ぶ情報処理、脳情報デコーディング、およびそれらを介した情報伝達手段構築のための数理基盤開発を目指します。<br />
 
-<img src='/images/slider7001400/research_summary.jpeg' class='img-responsive' style='max-width: 500px' align="center" />
+<div align="center">
+<img src='/images/slider7001400/research_summary.jpeg' class='img-responsive' style='max-width: 500px' />
+</div>
 <br />
 
 私たちは<br />
