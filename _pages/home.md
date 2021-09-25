@@ -51,7 +51,12 @@ permalink: /
   </a>
 </div>
 
-上記の目的のため、自然な知覚・認知条件下における脳神経活動（fMRI記録、電位記録等）を説明する予測モデルの構築を通じ、脳神経情報処理及び情報表現の定量的な理解を目指しています。また予測モデルの応用により、脳情報デコーディングやそれを介した情報伝達手段構築のための数理基盤開発を目指します。
+上記の目的のため、自然な知覚・認知条件下における脳神経活動（fMRI記録、電位記録等）を説明する予測モデルの構築を通じ、脳神経情報処理及び情報表現の定量的な理解を目指しています。
+
+
+
+また予測モデルの応用により、脳情報デコーディングやそれを介した情報伝達手段構築のための数理基盤開発を目指します。
+
 
 
 私たちは[大阪大学大学院生命機能研究科](https://www.fbs.osaka-u.ac.jp/)、[大阪大学基礎工学部システム科学科生物工学コース](http://www.bpe.es.osaka-u.ac.jp/)、および[国立研究開発法人情報通信研究機構未来ICT研究所脳情報通信融合研究センター（CiNet）](https://cinet.jp/)において分野・機関横断的な研究教育を行っています。
@@ -59,8 +64,7 @@ permalink: /
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_OsakaUniversity.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_FBS.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CiNet.jpg" style="width: 120px">
 </figure>
