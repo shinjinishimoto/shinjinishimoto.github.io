@@ -64,5 +64,5 @@ permalink: /
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_3.png" style="width: 400px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_3.png" style="width: 600px">
 </figure>
