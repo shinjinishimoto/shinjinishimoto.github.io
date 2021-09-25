@@ -1,13 +1,12 @@
-- name: Milan P Allan
-  photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+- name: 西本 伸志
+  photo: shinji_face.jpg
+  info: 教授
+  email: 
+  number_educ: 4
+  education1: 大阪大学 基礎工学部　飛び級中退
+  education2: 大阪大学 大学院基礎工学研究科 修了　博士（理学）
+  education3: カリフォルニア大学バークレー校 博士研究員/アソシエートスペシャリスト (2005-2013)
+  education4: 情報通信研究機構 主任研究員 (2013-)
 
 - name: Jianfeng (Jacky) Ge
   photo: Jacky.jpg
