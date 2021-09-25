@@ -2,12 +2,9 @@
   photo: shinji_face.jpg
   info: 教授
   email: 
-  number_educ: 5
-  education1: 大阪大学 基礎工学部 飛び級中退
-  education2: 大阪大学 大学院基礎工学研究科 修了
-  education3: University of California, Berkeley, Postdoc/Assoc. Specialist (2005-2013)
-  education4: 情報通信研究機構 主任研究員 (2013-)
-  education5: <a href="https://researchmap.jp/shinjinishimoto/">Research Map</a>, <a href="https://scholar.google.com/citations?user=y1pLEGkAAAAJ">Google Scholar</a>
+  number_educ: 2
+  education1: <a href="https://researchmap.jp/shinjinishimoto/">Research Map</a>
+  education2: <a href="https://scholar.google.com/citations?user=y1pLEGkAAAAJ">Google Scholar</a>
 
 - name: Jianfeng (Jacky) Ge
   photo: Jacky.jpg
