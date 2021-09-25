@@ -44,7 +44,7 @@ permalink: /
 また予測モデルの応用により、脳に学ぶ情報処理、脳情報デコーディング、およびそれらを介した情報伝達手段構築のための数理基盤開発を目指します。<br />
 
 <div align="center">
-<img src='/images/slider7001400/research_summary.jpeg' class='img-responsive' style='max-width: 500px' />
+<img src='/images/slider7001400/research_summary.jpeg' class='img-responsive' style='max-width: 0px' />
 </div>
 <br />
 
