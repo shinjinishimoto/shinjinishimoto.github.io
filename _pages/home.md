@@ -1,13 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "西本研究室 - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "知覚・認知神経科学研究室"
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+私たちは、ヒトの複雑で多様な知覚・認知脳機能がどのような神経基盤によって成立しているのかを研究しています。
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -52,17 +51,12 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
   </a>
 </div>
 
+上記の目的のため、自然な知覚・認知条件下における脳神経活動（fMRI記録、電位記録等）を説明する予測モデルの構築を通じ、脳神経情報処理及び情報表現の定量的な理解を目指しています。また予測モデルの応用により、脳情報デコーディングやそれを介した情報伝達手段構築のための数理基盤開発を目指します。
 
 
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+私たちは[大阪大学大学院生命機能研究科](https://www.fbs.osaka-u.ac.jp/)、[大阪大学基礎工学部システム科学科生物工学コース](http://www.bpe.es.osaka-u.ac.jp/)、および[国立研究開発法人情報通信研究機構未来ICT研究所脳情報通信融合研究センター（CiNet）](https://cinet.jp/)において分野・機関横断的な研究教育を行っています。
 
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
