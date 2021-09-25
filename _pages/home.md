@@ -57,11 +57,15 @@ permalink: /
 
 また予測モデルの応用により、脳に学ぶ情報処理、脳情報デコーディング、およびそれらを介した情報伝達手段構築のための数理基盤開発を目指します。<br />
 
+<br /><br />
 
+私たちは<br />
+[大阪大学大学院生命機能研究科](https://www.fbs.osaka-u.ac.jp/ja/research_group/detail/25)<br />
+[大阪大学基礎工学部システム科学科生物工学コース](http://www.bpe.es.osaka-u.ac.jp/)<br />
+[国立研究開発法人情報通信研究機構未来ICT研究所脳情報通信融合研究センター（CiNet）](https://www2.nict.go.jp/bnc/nishimoto/index.html)<br />
+において分野・機関横断的な研究教育を行っています。
 
-私たちは[大阪大学大学院生命機能研究科](https://www.fbs.osaka-u.ac.jp/)、[大阪大学基礎工学部システム科学科生物工学コース](http://www.bpe.es.osaka-u.ac.jp/)、および[国立研究開発法人情報通信研究機構未来ICT研究所脳情報通信融合研究センター（CiNet）](https://cinet.jp/)において分野・機関横断的な研究教育を行っています。
-
-
+<br />
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_3.png" style="width: 640px">
