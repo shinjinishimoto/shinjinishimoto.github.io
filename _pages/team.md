@@ -9,7 +9,7 @@ permalink: /team/
 # 研究室メンバー
 
 
-## スタッフ
+### スタッフ
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -22,7 +22,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  {{ member.info }} <!--<br>email: <{{ member.email }}> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -74,7 +74,7 @@ permalink: /team/
 
 
 
-## 学部・博士前期（修士）学生
+### 学部・博士前期（修士）学生
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -128,7 +128,7 @@ permalink: /team/
 {% endif %}
 
 
-## これまでの在籍メンバー
+### これまでの在籍メンバー
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -161,7 +161,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+### Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -188,5 +188,5 @@ permalink: /team/
 </div>
 
 
-## Administrative Support
+### Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
