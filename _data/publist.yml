@@ -27,3 +27,12 @@
     display: arXiv:2101.08535 (2021)
   highlight: 1
   
+- title: "Distinct dimensions of emotion in the human brain and their representation on the cortical surface"
+  image: EmotionSpace.png
+  description: 多様な情動についての脳機能を調べるため、感情を喚起する視聴覚刺激（動画）を見ている際の脳活動を80種類の情動特徴を用いてモデル化し、情動の脳内意味空間の定量やその機能構造の可視化を行いました。
+  authors: Koide-Majima N, Nakai T, Nishimoto S
+  link:
+    url: https://arxiv.org/abs/2101.08535
+    display: arXiv:2101.08535 (2021)
+  highlight: 1
+  
