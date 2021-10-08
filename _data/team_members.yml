@@ -44,6 +44,27 @@
   number_educ: 0
   education1:
 
+- name: 市川 直人
+  photo: rock.jpg
+  info: 技術スタッフ
+  email: 
+  number_educ: 0
+  education1:
+
+- name: 宮武 留美子
+  photo: rock.jpg
+  info: 特任技術職員
+  email: 
+  number_educ: 0
+  education1:
+
+- name: 山本 亜希子
+  photo: rock.jpg
+  info: 技術補佐員
+  email: 
+  number_educ: 0
+  education1:
+
 - name: "This could be you !"
   photo: rock.jpg
   info: 
