@@ -16,6 +16,8 @@ permalink: /resources/
 [Gallant Lab Natural Movie 4T fMRI Data (vim-2)](https://crcns.org/data-sets/vc/vim-2/about-vim-2)<br>
 [Extracellular recordings from area MT of awake macaques in response to naturalistic movies. (mt-2)](https://crcns.org/data-sets/vc/mt-2/about-mt-2)<br>
 <br>
+[Two-photon Ca2+ imaging natural movie data](https://ai-data.nict.go.jp/dataset/detail/?id=35)<br>
+<br>
 [Over 100 Task MRI](https://osf.io/ea2jc/)<br>
 <br>
 
