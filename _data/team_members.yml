@@ -8,7 +8,7 @@
   education2: <a href="https://scholar.google.com/citations?user=y1pLEGkAAAAJ">Google Scholar</a>
 
 - name: 佐々木 耕太
-  photo: rock.jpg
+  photo: faceicon.png
   info: 助教
   email: 
   number_educ: 1
@@ -32,35 +32,35 @@
   education2: <a href="https://researchmap.jp/rkubo/">researchmap</a>
 
 - name: 山下 真寛
-  photo: rock.jpg
+  photo: faceicon.png
   info: 特任研究員
   email: 
   number_educ: 0
   education1:
 
 - name: 山口 裕人
-  photo: rock.jpg
+  photo: faceicon.png
   info: 博士後期課程大学院生
   email: 
   number_educ: 1
   education1: 学術振興会特別研究員(DC2)
 
 - name: 市川 直人
-  photo: rock.jpg
+  photo: faceicon.png
   info: 技術スタッフ
   email: 
   number_educ: 0
   education1:
 
 - name: 宮武 留美子
-  photo: rock.jpg
+  photo: faceicon.png
   info: 特任技術職員
   email: 
   number_educ: 0
   education1:
 
 - name: 山本 亜希子
-  photo: rock.jpg
+  photo: faceicon.png
   info: 技術補佐員
   email: 
   number_educ: 0
