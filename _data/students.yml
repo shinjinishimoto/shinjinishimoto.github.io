@@ -8,16 +8,44 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
+- name: 奥野　綾音
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: BSc student
+  email: 
   number_educ: 0
   education1:
 
-- name: João van der Ven
+- name: 川﨑　康平
   photo: rock.jpg
   info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  email: 
+  number_educ: 0
+  education1:
+
+- name: 黒田　悠翔
+  photo: rock.jpg
+  info: BSc student
+  email: 
+  number_educ: 0
+  education1:
+
+- name: 鈴木　悠大
+  photo: rock.jpg
+  info: BSc student
+  email: 
+  number_educ: 0
+  education1:
+
+- name: 深井　勇汰
+  photo: rock.jpg
+  info: BSc student
+  email: 
+  number_educ: 0
+  education1:
+
+- name: 渡邉　悠暉
+  photo: rock.jpg
+  info: BSc student
+  email: 
   number_educ: 0
   education1:
