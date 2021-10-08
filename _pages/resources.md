@@ -20,7 +20,7 @@ permalink: /resources/
 <br>
 
 ### 関連動画
-Algonauts Project 2021 Challenge (September 2021)
+Algonauts Project 2021 Challenge (2021年9月)
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/xtSh_XotVlo
 ?loop=1
@@ -30,8 +30,9 @@ src="https://www.youtube.com/embed/xtSh_XotVlo
 &modestbranding=1"
 frameborder="0" allowfullscreen>
 </iframe>
+<br>
 
-Information Structure of Brain and Qualia Symposium (May 2021)
+Information Structure of Brain and Qualia Symposium (2021年5月)
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/W9ebGLgzRNI
 ?loop=1
@@ -41,5 +42,18 @@ src="https://www.youtube.com/embed/W9ebGLgzRNI
 &modestbranding=1"
 frameborder="0" allowfullscreen>
 </iframe>
+<br>
+
+Nature: Reading minds (2013年10月)
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/z8iEogscUl8
+?loop=1
+&autoplay=0
+&mute=0
+&rel=0
+&modestbranding=1"
+frameborder="0" allowfullscreen>
+</iframe>
+
 
 
