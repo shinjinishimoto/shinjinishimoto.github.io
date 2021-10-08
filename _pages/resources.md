@@ -51,6 +51,18 @@ frameborder="0" allowfullscreen>
 </iframe></div>
 <br>
 
+NICT: 脳情報通信技術
+<div class="iframe-responsive">
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/Mshx8fyYH1M
+?loop=1
+&autoplay=0
+&mute=0
+&rel=0"
+frameborder="0" allowfullscreen>
+</iframe></div>
+<br>
+
 Nature: Reading minds
 <div class="iframe-responsive">
 <iframe width="560" height="315"
