@@ -72,7 +72,7 @@ permalink: /team/
 {% endif %}
 
 
-
+<br>
 
 ### 学部・博士前期（修士）学生
 {% assign number_printed = 0 %}
@@ -127,8 +127,9 @@ permalink: /team/
 </div>
 {% endif %}
 
-
+<br>
 ### 事務・技術サポート
-市川 直人
-宮武 留美子
-山本 亜希子
+市川 直人<br>
+宮武 留美子<br>
+山本 亜希子<br>
+
