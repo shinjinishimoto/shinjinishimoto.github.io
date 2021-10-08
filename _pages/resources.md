@@ -9,16 +9,21 @@ permalink: /resources/
 # 関連リソース
 
 ### オープンデータ・コード
+#### fMRI
 [Over 100 Task fMRI Dataset](https://openneuro.org/datasets/ds002306/)<br>
 [Music Genre fMRI Dataset](https://openneuro.org/datasets/ds003720/)<br>
 [fMRI dataset on program comprehension and expertise](https://openneuro.org/datasets/ds002411/)<br>
+[Gallant Lab Natural Movie 4T fMRI Data (CRCNS:vim-2)](https://crcns.org/data-sets/vc/vim-2/about-vim-2)<br>
 <br>
-[Gallant Lab Natural Movie 4T fMRI Data (vim-2)](https://crcns.org/data-sets/vc/vim-2/about-vim-2)<br>
-[Extracellular recordings from area MT of awake macaques in response to naturalistic movies. (mt-2)](https://crcns.org/data-sets/vc/mt-2/about-mt-2)<br>
-<br>
+
+#### 神経細胞応答
 [Two-photon Ca2+ imaging natural movie data](https://ai-data.nict.go.jp/dataset/detail/?id=35)<br>
+[Extracellular recordings from area MT of awake macaques in response to naturalistic movies. (CRCNS:mt-2)](https://crcns.org/data-sets/vc/mt-2/about-mt-2)<br>
 <br>
+
+#### コード
 [Over 100 Task MRI](https://osf.io/ea2jc/)<br>
+[Motion_energy_matlab](https://github.com/gallantlab/motion_energy_matlab)<br>
 <br>
 
 ### 関連動画
