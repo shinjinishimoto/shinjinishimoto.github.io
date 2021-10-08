@@ -34,8 +34,7 @@ src="https://www.youtube.com/embed/xtSh_XotVlo
 ?loop=1
 &autoplay=0
 &mute=0
-&rel=0
-&modestbranding=1"
+&rel=0"
 frameborder="0" allowfullscreen>
 </iframe></div>
 <br>
@@ -47,8 +46,7 @@ src="https://www.youtube.com/embed/W9ebGLgzRNI
 ?loop=1
 &autoplay=0
 &mute=0
-&rel=0
-&modestbranding=1"
+&rel=0"
 frameborder="0" allowfullscreen>
 </iframe></div>
 <br>
@@ -60,8 +58,7 @@ src="https://www.youtube.com/embed/z8iEogscUl8
 ?loop=1
 &autoplay=0
 &mute=0
-&rel=0
-&modestbranding=1"
+&rel=0"
 frameborder="0" allowfullscreen>
 </iframe></div>
 
