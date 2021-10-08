@@ -20,6 +20,16 @@ permalink: /resources/
 <br>
 
 ### 関連動画
-
+Algonauts Project 2021 Challenge
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/xtSh_XotVlo
+?loop=1
+&playlist=vdxoDyNAoH0
+&autoplay=1
+&mute=1
+&rel=0
+&modestbranding=1"
+frameborder="0" allowfullscreen>
+</iframe>
 
 
