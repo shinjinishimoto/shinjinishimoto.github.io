@@ -41,6 +41,7 @@ frameborder="0" allowfullscreen>
 <br>
 
 Information Structure of Brain and Qualia Symposium
+<div class="iframe-responsive">
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/W9ebGLgzRNI
 ?loop=1
@@ -49,10 +50,11 @@ src="https://www.youtube.com/embed/W9ebGLgzRNI
 &rel=0
 &modestbranding=1"
 frameborder="0" allowfullscreen>
-</iframe>
+</iframe></div>
 <br>
 
 Nature: Reading minds
+<div class="iframe-responsive">
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/z8iEogscUl8
 ?loop=1
@@ -61,7 +63,8 @@ src="https://www.youtube.com/embed/z8iEogscUl8
 &rel=0
 &modestbranding=1"
 frameborder="0" allowfullscreen>
-</iframe>
+</iframe></div>
+
 
 
 
