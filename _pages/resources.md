@@ -20,12 +20,23 @@ permalink: /resources/
 <br>
 
 ### 関連動画
-Algonauts Project 2021 Challenge
+Algonauts Project 2021 Challenge (September 2021)
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/xtSh_XotVlo
 ?loop=1
-&autoplay=1
-&mute=1
+&autoplay=0
+&mute=0
+&rel=0
+&modestbranding=1"
+frameborder="0" allowfullscreen>
+</iframe>
+
+Information Structure of Brain and Qualia Symposium (May 2021)
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/W9ebGLgzRNI
+?loop=1
+&autoplay=0
+&mute=0
 &rel=0
 &modestbranding=1"
 frameborder="0" allowfullscreen>
