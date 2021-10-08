@@ -28,6 +28,7 @@ permalink: /resources/
 
 ### 関連動画
 Algonauts Project 2021 Challenge
+<div class="iframe-responsive">
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/xtSh_XotVlo
 ?loop=1
@@ -36,7 +37,7 @@ src="https://www.youtube.com/embed/xtSh_XotVlo
 &rel=0
 &modestbranding=1"
 frameborder="0" allowfullscreen>
-</iframe>
+</iframe></div>
 <br>
 
 Information Structure of Brain and Qualia Symposium
