@@ -20,7 +20,7 @@ permalink: /resources/
 <br>
 
 ### 関連動画
-Algonauts Project 2021 Challenge (2021年9月)
+CCN2021: Algonauts Project 2021 Challenge (2021年9月)
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/xtSh_XotVlo
 ?loop=1
