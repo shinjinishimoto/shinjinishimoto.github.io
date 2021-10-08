@@ -6,7 +6,7 @@ sitemap: false
 permalink: /resources/
 ---
 
-# 関連リソース
+## 関連リソース
 
 ### オープンデータ・コード
 #### fMRI
