@@ -52,13 +52,6 @@
   number_educ: 0
   education1:
 
-- name: 宮武 留美子
-  photo: faceicon.jpg
-  info: 特任技術職員
-  email: 
-  number_educ: 0
-  education1:
-
 - name: 山本 亜希子
   photo: faceicon.jpg
   info: 技術補佐員
@@ -67,7 +60,7 @@
   education1:
 
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: faceicon.jpg
   info: 
   email: 
   number_educ: 0
