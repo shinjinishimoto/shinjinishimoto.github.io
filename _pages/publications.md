@@ -51,6 +51,16 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
+### 論文リスト （2020年以降）
+
+{% for publi in site.data.publist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+
 <br />
 ### 特許
 
@@ -64,16 +74,8 @@ permalink: /publications/
 
 <em>西本 伸志, 西田 知史, 柏岡 秀紀</em><br />素材評価方法、及び素材評価装置<br /> 日本国特許6687940 (2020)
 
-<em>西本 伸志, 西田 知史, 柏岡 秀紀, 矢野 亮, 前田 直哉, 角 将高, 萩原 一平, 茨木 拓也</em><br />視聴素材評価方法、視聴素材評価システム、及びプログラム<br /> 日本国特許6662644 (2020)
+<em>西本 伸志, 西田 知史, 柏岡 秀紀, 矢野 亮, 前田 直哉, 角 将高, 萩原 一平, 茨木 拓也</em><br />視聴素材評価方法、視聴素材評価システム、及びプログラム<br /> 特許6662644 (2020)
 
-<em>西本 伸志, 柏岡 秀紀</em><br />知覚意味内容推定装置および脳活動の解析による知覚意味内容の推定方法<br /> 日本国特許6618702 (2019)
+<em>西本 伸志, 柏岡 秀紀</em><br />知覚意味内容推定装置および脳活動の解析による知覚意味内容の推定方法<br /> 特許6618702 (2019)
 
-<br />
-### 論文 （2020年以降）
 
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
