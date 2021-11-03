@@ -9,7 +9,8 @@ permalink: /publications/
 
 ## 出版物
 
-（より詳細なリストは[Google Scholar](https://scholar.google.ch/citations?user=y1pLEGkAAAAJ)や[ResearchMap](https://researchmap.jp/shinjinishimoto/)などをご参照ください)
+
+（より詳細な業績リストは[Google Scholar](https://scholar.google.ch/citations?user=y1pLEGkAAAAJ)や[ResearchMap](https://researchmap.jp/shinjinishimoto/)などをご参照ください)
 
 ### ハイライト
 
@@ -51,7 +52,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-### 論文リスト （2020年以降）
+### 論文 （2020年以降）
 
 {% for publi in site.data.publist %}
 
