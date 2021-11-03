@@ -1,28 +1,19 @@
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 1
-  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
-
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: TiNHigh.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
-  link:
-    url: https://arxiv.org/abs/2101.08535
-    display: arXiv:2101.08535 (2021)
-  highlight: 1
   
 - title: "Distinct dimensions of emotion in the human brain and their representation on the cortical surface"
   image: EmotionSpace.png
   description: 多様な情動についての脳機能を調べるため、感情を喚起する視聴覚刺激（動画）を見ている際の脳活動を80種類の情動特徴を用いてモデル化し、情動の脳内意味空間の定量やその機能構造の可視化を行いました。
   authors: Koide-Majima N, Nakai T, Nishimoto S
   link:
-    url: https://arxiv.org/abs/2101.08535
-    display: arXiv:2101.08535 (2021)
+    url: https://doi.org/10.1016/j.neuroimage.2020.117258
+    display: NeuroImage (2020)
+  highlight: 1
+  
+- title: "Quantitative models reveal the organization of diverse cognitive functions in the brain"
+  image: CognitiveBrain.png
+  description: 認知的な脳機能全般を司る脳内認知表現を定量するため、103種類の認知課題遂行中の脳活動を認知特徴を用いてモデル化し、認知表現空間やその機能構造の定量を行いました。
+  authors: Nakai T, Nishimoto S
+  link:
+    url: https://doi.org/10.1038/s41467-020-14913-w
+    display: Nature Communications (2020)
   highlight: 1
   
