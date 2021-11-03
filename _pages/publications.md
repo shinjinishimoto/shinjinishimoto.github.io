@@ -60,6 +60,8 @@ permalink: /publications/
 
 {% endfor %}
 
+（より詳細なリストは[Google Scholar](https://scholar.google.ch/citations?user=y1pLEGkAAAAJ)や[ResearchMap](https://researchmap.jp/shinjinishimoto/)などをご参照ください)
+
 
 <br />
 ### 特許
