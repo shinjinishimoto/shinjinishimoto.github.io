@@ -1,17 +1,17 @@
 ---
-title: "Allan Lab - Publications"
+title: "Nishimoto Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Publications"
 sitemap: false
 permalink: /publications/
 ---
 
 
-# Publications
+## 出版物
 
-## Group highlights
+（より詳細なリストは[Google Scholar](https://scholar.google.ch/citations?user=y1pLEGkAAAAJ)や[ResearchMap](https://researchmap.jp/shinjinishimoto/)などをご参照ください)
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+### ハイライト
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,12 +52,12 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Patents
+### 特許
 <em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 
-## Full List of publications
+### 論文 （2020年以降）
 
 {% for publi in site.data.publist %}
 
