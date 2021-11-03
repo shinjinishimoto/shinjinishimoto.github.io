@@ -1,4 +1,57 @@
-  
+- title: "Multiple states in ongoing neural activity in the rat visual cortex"
+  image: 
+  description: 
+  authors: Konno D, Nishimoto S, Suzuki T, Ikegaya Y, Matsumoto N
+  link:
+    url: https://www.doi.org/10.1371/journal.pone.0256791
+    display: PLoS One (2021)
+  highlight: 0
+    
+- title: "Reduction of Information Collection Cost for Inferring Brain Model Relations From Profile Information Using Machine Learning"
+  image: 
+  description: 
+  authors: Shinkuma R, Nishida S, Maeda N, Kado M, Nishimoto S
+  link:
+    url: https://www.doi.org/10.1109/TSMC.2021.3074069
+    display: IEEE Transactions on Systems, Man, and Cybernetics: Systems (2021)
+  highlight: 0
+    
+- title: "Behavioral correlates of cortical semantic representations modeled by word vectors"
+  image: 
+  description: 
+  authors: Nishida S, Blanc A, Maeda N, Kado M, Nishimoto S
+  link:
+    url: https://www.doi.org/10.1371/journal.pcbi.1009138
+    display: PLoS Computational Biology (2021)
+  highlight: 0
+    
+- title: "Convergence of Modality Invariance and Attention Selectivity in the Cortical Semantic Circuit"
+  image: 
+  description: 
+  authors: Nakai T, Yamaguchi HQ, Nishimoto S
+  link:
+    url: https://www.doi.org/10.1093/cercor/bhab125
+    display: Cerebral Cortex (2021)
+  highlight: 0
+    
+- title: "Expert Programmers Have Fine-Tuned Cortical Representations of Source Code"
+  image: 
+  description: 
+  authors: Ikutani Y, Kubo T, Nishida S, Hata H, Matsumoto K, Ikeda K, Nishimoto S
+  link:
+    url: https://www.doi.org/10.1523/ENEURO.0405-20.2020
+    display: eNeuro (2021)
+  highlight: 0
+    
+- title: "Correspondence of categorical and feature-based representations of music in the human brain"
+  image: 
+  description: 
+  authors: Nakai T, Koide-Majima N, Nishimoto S
+  link:
+    url: https://www.doi.org/10.1002/brb3.1936
+    display: Brain and Behavior (2021)
+  highlight: 0
+    
 - title: "Distinct dimensions of emotion in the human brain and their representation on the cortical surface"
   image: EmotionSpace.png
   description: 多様な情動についての脳機能を調べるため、感情を喚起する視聴覚刺激（動画）を見ている際の脳活動を80種類の情動特徴を用いてモデル化し、情動の脳内意味空間の定量やその機能構造の可視化を行いました。
@@ -15,7 +68,7 @@
   link:
     url: https://www.doi.org/10.1609/aaai.v34i04.5974
     display: Proceedings of the AAAI Conference on Artificial Intelligence  (2020)
-  highlight: 
+  highlight: 0
   
 - title: "Quantitative models reveal the organization of diverse cognitive functions in the brain"
   image: CognitiveMap.png
