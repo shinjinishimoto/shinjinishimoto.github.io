@@ -8,6 +8,15 @@
     display: NeuroImage (2020)
   highlight: 1
   
+- title: "Brain-Mediated Transfer Learning of Convolutional Neural Networks"
+  image: 
+  description: 
+  authors: Nishida S, Nakano Y, Blanc A, Maeda N, Kado M, Nishimoto S
+  link:
+    url: https://www.doi.org/10.1609/aaai.v34i04.5974
+    display: Proceedings of the AAAI Conference on Artificial Intelligence  (2020)
+  highlight: 
+  
 - title: "Quantitative models reveal the organization of diverse cognitive functions in the brain"
   image: CognitiveMap.png
   description: 認知的な脳機能全般を司る脳内認知表現を定量するため、103種類の認知課題遂行中の脳活動を認知特徴を用いてモデル化し、認知表現空間やその機能構造の定量を行いました。
